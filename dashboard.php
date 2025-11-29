@@ -55,7 +55,7 @@ $user_id = $_SESSION['id'];
     <div class="container mt-5">
         <div class="jumbotron">
             <h1 class="display-4 text-primary"><i class="fas fa-hands-clapping"></i> Selamat Datang, <?php echo htmlspecialchars($username); ?>!</h1>
-            <p class="lead">Ini adalah aplikasi portal SDN Pacarkembang IV Surabaya.</p>
+            <p class="lead">Ini adalah aplikasi portal (GANTI INI)).</p>
             <hr class="my-4">
             <p>Anda telah login. Username Anda adalah: **<?php echo htmlspecialchars($username); ?>**</p>
             <p class="mb-0">Pastikan untuk selalu menjaga keamanan akun Anda dan keluar setelah selesai menggunakan sistem.</p>
